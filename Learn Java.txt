@@ -1,0 +1,55 @@
+
+Class Student 
+var std
+
+three private varialbes 
+name  , course  , score
+
+StudentInfo()
+
+
+Noun ---------class ----- Employee
+
+Adjective -----------Attributes --------- name , age , salary
+
+Verb-----------Method --------- getSalary() , increment
+____________________________________________________________________________________________________
+
+
+--------Basic Terminologies in Object Oriented Programming-------------
+
+1. Abstraction 
+hiding internal details.(show only essential info !)
+
+Ex:
+like  phone  about how it was made 
+
+
+
+2 .Encapsulation:
+The act of putting various components together ( in a box or capsule)
+
+Ex:
+Laptop is a single entity with
+wifi + speaker + storage in a single box 
+
+
+3.Inheritance
+The act of deriving new things from existing things .
+ksi chez me additional features dalnaaa
+
+Ex:
+Rickshaw ----> E- rickshaw
+Phone ------>Smart Phone
+
+
+4.Polymorphism
+One entitiy many features 
+
+Ex:
+Smartphone - calculator  
+Smartphone - Camera
+
+
+
+
